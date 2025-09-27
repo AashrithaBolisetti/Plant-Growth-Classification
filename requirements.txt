@@ -1,6 +1,6 @@
 pandas
-scikit-learn
+numpy
 joblib
-# Add your web framework here (e.g., if you choose Flask)
-Flask
-# gunicorn (A production HTTP server for Flask/Django)
+streamlit
+Flask # Still needed if the platform installed it, though not used in the final app.py
+scikit-learn==1.6.1  <-- PINNED TO MATCH TRAINING VERSION
