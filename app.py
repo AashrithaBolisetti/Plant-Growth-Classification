@@ -73,7 +73,7 @@ def preprocess_input(input_data: dict) -> pd.DataFrame:
 
 
 # --- 3. Streamlit Application Interface ---
-st.title("🌱 Plant Growth Milestone Predictor")
+st.title("🌱 Plant Growth Prediction")
 st.markdown("Enter the environmental conditions and soil parameters to predict if the plant will reach its growth milestone.")
 
 if clf is not None:
