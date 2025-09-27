@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+joblib
+# Add your web framework here (e.g., if you choose Flask)
+# Flask
+# gunicorn (A production HTTP server for Flask/Django)
