@@ -1,6 +1,7 @@
+# requirements.txt (Corrected)
 pandas
 numpy
 joblib
 streamlit
-Flask # Still needed if the platform installed it, though not used in the final app.py
-scikit-learn==1.6.1  <-- PINNED TO MATCH TRAINING VERSION
+Flask
+scikit-learn==1.6.1 # PINNED TO MATCH TRAINING VERSION
